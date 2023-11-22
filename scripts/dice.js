@@ -22,30 +22,8 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       "17",
       "18",
       "19",
-      "https://assets.forge-vtt.com/63767fb817b8033194fc400d/modules/zaita_dices/images/nat20.png"
+      "https://assets.forge-vtt.com/63767fb817b8033194fc400d/modules/zaita_dices/images/teapot20.png"
     ],
-    /*bumpMaps: [
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      "https://assets.forge-vtt.com/63767fb817b8033194fc400d/modules/zaita_dices/images/nat20_BUMP.png"
-    ],*/
     system: "Zaita"
   });
 
