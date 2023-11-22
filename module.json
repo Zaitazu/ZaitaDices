@@ -1,5 +1,5 @@
 {
-  "title": "Dices for Zaitazu tables",
+  "title": "ZaitaDices",
   "description": "Additional Dice presets and themes for Dice So Nice. Requires Dice So Nice module to work.",
   "version": "0.0.1",
   "author": "Zaitazu",
@@ -8,7 +8,7 @@
     "scripts/dice.js"
   ],
   
-  "id": "ZaitaDices",
+  "id": "zaita_dices",
   
   "relationships": {
     "requires": [
@@ -26,6 +26,6 @@
     "verified": "11.0.0"
   },
   "url" : "",
-  "manifest": "https://github.com/Zaitazu/ZaitaDices/releases/download/1.0.1/module.json",
-  "download": "https://github.com/Zaitazu/ZaitaDices/releases/download/1.0.1/ZaitaDices.zip"
+  "manifest": "https://github.com/Zaitazu/ZaitaDices/releases/download/1.0.2/module.json",
+  "download": "https://github.com/Zaitazu/ZaitaDices/releases/download/1.0.2/ZaitaDices.zip"
 }
