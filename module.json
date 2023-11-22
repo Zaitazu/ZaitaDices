@@ -26,6 +26,6 @@
     "verified": "11.0.0"
   },
   "url" : "",
-  "manifest": "",
-  "download": ""
+  "manifest": "https://github.com/Zaitazu/ZaitaDices/releases/download/1.0.1/module.json",
+  "download": "https://github.com/Zaitazu/ZaitaDices/releases/download/1.0.1/ZaitaDices.zip"
 }
