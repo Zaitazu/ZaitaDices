@@ -1,0 +1,31 @@
+{
+  "title": "Dices for Zaitazu tables",
+  "description": "Additional Dice presets and themes for Dice So Nice. Requires Dice So Nice module to work.",
+  "version": "0.0.1",
+  "author": "Zaitazu",
+
+  "scripts": [
+    "scripts/dice.js"
+  ],
+  
+  "id": "ZaitaDices",
+  
+  "relationships": {
+    "requires": [
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json",
+        "compatibility": {}
+      }
+    ]
+  },
+  
+  "compatibility": {
+    "minimum": "0.7.9",
+    "verified": "11.0.0"
+  },
+  "url" : "",
+  "manifest": "",
+  "download": ""
+}
