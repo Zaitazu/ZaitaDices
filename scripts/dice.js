@@ -22,9 +22,9 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       "17",
       "18",
       "19",
-      "https://raw.githubusercontent.com/Zaitazu/ZaitaDices/main/images/nat20.png"
+      "https://assets.forge-vtt.com/63767fb817b8033194fc400d/modules/zaita_dices/images/nat20.png"
     ],
-    bumpMaps: [
+    /*bumpMaps: [
       ,
       ,
       ,
@@ -44,10 +44,10 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       ,
       ,
       ,
-      "https://raw.githubusercontent.com/Zaitazu/ZaitaDices/main/images/nat20_BUMP.png"
-    ],
+      "https://assets.forge-vtt.com/63767fb817b8033194fc400d/modules/zaita_dices/images/nat20_BUMP.png"
+    ],*/
     system: "Zaita"
-  },"d20");
+  });
 
 //  dice3d.addTexture("WikiRole", {
 //      name: "WikiRole",
