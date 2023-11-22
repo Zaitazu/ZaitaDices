@@ -1,7 +1,7 @@
 {
   "title": "ZaitaDices",
   "description": "Additional Dice presets and themes for Dice So Nice. Requires Dice So Nice module to work.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Zaitazu",
 
   "scripts": [
