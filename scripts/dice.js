@@ -22,7 +22,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       "17",
       "18",
       "19",
-      "https://assets.forge-vtt.com/63767fb817b8033194fc400d/modules/zaita_dice/images/nat20.png"
+      "/zaita_dice/images/nat20.png"
     ],
     bumpMaps: [
       ,
@@ -44,7 +44,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       ,
       ,
       ,
-      "https://assets.forge-vtt.com/63767fb817b8033194fc400d/modules/zaita_dice/images/nat20.png"
+      "/zaita_dice/images/nat20.png"
     ],
     system: "Zaita"
   },"d20");
@@ -53,11 +53,11 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
     type: "d2",
     labels: [
       "†",
-      "https://assets.forge-vtt.com/63767fb817b8033194fc400d/modules/zaita_dice/images/nat20.png"
+      "/zaita_dice/images/nat20.png"
     ],
     bumpMaps: [
       ,
-      "https://assets.forge-vtt.com/63767fb817b8033194fc400d/modules/zaita_dice/images/nat20.png"
+      "/zaita_dice/images/nat20.png"
     ],
     system: "Zaita"
   },"d2");
