@@ -1,11 +1,11 @@
 Hooks.once('diceSoNiceReady', (dice3d) => {
-  dice3d.addSystem({ id: "Babelo", name: "Babelo"}, true);
+  dice3d.addSystem({ id: "Papy", name: "Papy"}, true);
   dice3d.addSystem({ id: "Red", name: "Red"}, true);
   dice3d.addSystem({ id: "Nasser", name: "Nasser"}, true);
   dice3d.addSystem({ id: "Diokhan", name: "Diokhan"}, true);
   dice3d.addSystem({ id: "Iteag", name: "Iteag"}, true);
 
-  //Dice Babelo
+  //Dice Papy
   dice3d.addDicePreset({
     type: "d20",
     labels: [
@@ -28,9 +28,9 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       "17",
       "18",
       "19",
-      "https://assets.forge-vtt.com/63767fb817b8033194fc400d/modules/zaita_dices/images/Bab20.png"
+      "https://assets.forge-vtt.com/63767fb817b8033194fc400d/modules/zaita_dices/images/Papy20.png"
     ],
-    system: "Babelo"
+    system: "Papy"
   });
 
   //Dice Red
