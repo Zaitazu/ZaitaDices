@@ -28,7 +28,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       "17",
       "18",
       "19",
-      "https://assets.forge-vtt.com/63767fb817b8033194fc400d/modules/zaita_dices/images/Papy20.png"
+      "modules/zaita_dices/images/papy20.png"
     ],
     system: "Papy"
   });
@@ -56,7 +56,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       "17",
       "18",
       "19",
-      "https://assets.forge-vtt.com/63767fb817b8033194fc400d/modules/zaita_dices/images/Red20.png"
+      "modules/zaita_dices/images/red20.png"
     ],
     system: "Red"
   });
@@ -84,7 +84,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       "17",
       "18",
       "19",
-      "https://assets.forge-vtt.com/63767fb817b8033194fc400d/modules/zaita_dices/images/Nasser20.png"
+      "modules/zaita_dices/images/nasser20.png"
     ],
     system: "Nasser"
   });
@@ -112,7 +112,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       "17",
       "18",
       "19",
-      "https://assets.forge-vtt.com/63767fb817b8033194fc400d/modules/zaita_dices/images/Diokhan20.png"
+      "modules/zaita_dices/images/diokhan20.png"
     ],
     system: "Diokhan"
   });
@@ -140,7 +140,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       "17",
       "18",
       "19",
-      "https://assets.forge-vtt.com/63767fb817b8033194fc400d/modules/zaita_dices/images/Iteag20.png"
+      "modules/zaita_dices/images/iteag20.png"
     ],
     system: "Iteag"
   });
