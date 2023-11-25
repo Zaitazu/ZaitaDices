@@ -30,6 +30,28 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       "19",
       "modules/zaita_dices/images/papy20.png"
     ],
+    bumpMaps: [
+       ,
+       ,
+       ,
+       ,
+       ,
+       ,
+       ,
+       ,
+       ,
+       ,
+       ,
+       ,
+       ,
+       ,
+       ,
+       ,
+       ,
+       ,
+       ,
+       "modules/zaita_dices/images/papy20_bump.png"
+     ],
     system: "Papy"
   });
 
@@ -57,6 +79,28 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       "18",
       "19",
       "modules/zaita_dices/images/red20.png"
+    ],
+    bumpMaps: [
+      ,
+      ,
+      ,
+      ,
+      ,
+      ,
+      ,
+      ,
+      ,
+      ,
+      ,
+      ,
+      ,
+      ,
+      ,
+      ,
+      ,
+      ,
+      ,
+      "modules/zaita_dices/images/red_bump.png"
     ],
     system: "Red"
   });
@@ -144,6 +188,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
     ],
     system: "Iteag"
   });
+  
 //  dice3d.addTexture("WikiRole", {
 //      name: "WikiRole",
 //      composite: "source-over",
