@@ -158,28 +158,6 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       "19",
       "modules/zaita_dices/images/diokhan20.png"
     ],
-    bumpMaps: [
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      ,
-      "modules/zaita_dices/images/diokhan20_bump.png"
-    ],
     system: "Diokhan"
   });
 
