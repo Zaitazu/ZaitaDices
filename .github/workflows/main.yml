@@ -13,7 +13,7 @@ jobs:
 
             - name: Zip Files
               working-directory: ./
-              run: zip -r ./zaitadice.zip ./*
+              run: zip -r ./zaitadices.zip ./*
 
             - name: Get Version
               shell: bash
